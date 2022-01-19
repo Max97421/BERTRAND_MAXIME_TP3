@@ -1,0 +1,6 @@
+C:\Users\Maxou\Desktop\TP3_maxime_bertrand\TP3_maxime_bertrand\obj\Debug\TP3_maxime_bertrand.csprojAssemblyReference.cache
+C:\Users\Maxou\Desktop\TP3_maxime_bertrand\TP3_maxime_bertrand\obj\Debug\TP3_maxime_bertrand.csproj.CoreCompileInputs.cache
+C:\Users\Maxou\Desktop\TP3_maxime_bertrand\TP3_maxime_bertrand\bin\Debug\TP3_maxime_bertrand.exe
+C:\Users\Maxou\Desktop\TP3_maxime_bertrand\TP3_maxime_bertrand\bin\Debug\TP3_maxime_bertrand.pdb
+C:\Users\Maxou\Desktop\TP3_maxime_bertrand\TP3_maxime_bertrand\obj\Debug\TP3_maxime_bertrand.exe
+C:\Users\Maxou\Desktop\TP3_maxime_bertrand\TP3_maxime_bertrand\obj\Debug\TP3_maxime_bertrand.pdb
